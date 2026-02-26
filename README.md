@@ -1,3 +1,5 @@
+##Available online on https://chatbot-blue-ten-57.vercel.app/
+
 <a href="https://chat.vercel.ai/">
   <img alt="Next.js 14 and App Router-ready Chatbot." src="app/(chat)/opengraph-image.png">
   <h1 align="center">Chatbot</h1>
